@@ -1,0 +1,5 @@
+- normalized text should replace modifier letters with base ASCII letters
+- reg ˢave -> reg save
+- certutil -ᵁrlcache -> certutil -urlcache
+- commands with risky patterns should receive medium/high scores
+- benign commands should stay low

